@@ -1,7 +1,7 @@
 # Grounding
 Grounding information for AI and context transference.
 
-# pcSHOWme AI + Music Projects (2025)
+# pcSHOWme AI + Music Projects (2025) 
 
 Welcome to the **pcSHOWme** project space — a creative fusion of **AI innovation**, **original music**, and **technical storytelling**. This `README.md` serves as a living document to track, align, and evolve our goals across platforms and technologies, with a special focus on transparency, iteration, and community impact.
 
