@@ -14,10 +14,10 @@ $IdCounter = 65 # ASCII 'A'
 # Ensure Journal directory exists
 if (!(Test-Path $JournalDir)) { New-Item -ItemType Directory -Path $JournalDir | Out-Null }
 
-# Get all .cht and .md files except those in Journal or system folders
 $Files = Get-ChildItem -Path $Root -Recurse -Include *.cht, *.md | Where-Object {
-    $_.FullName -notmatch "\\Journal\\" -and $_.FullName -notmatch "\\system\\"
+    $_.FullName -notmatch "Journal\\system"
 }
+
 
 foreach ($File in $Files) {
     $Content = Get-Content $File.FullName -Raw
