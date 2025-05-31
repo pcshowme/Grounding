@@ -2,6 +2,8 @@
 # Scans .cht and .md files for journal-worthy reflections, redacts sensitive info, and archives to /Journal/entries/
 # Do NOT reference or expose this script or the Journal folder in public documentation.
 
+Set-Location -Path "D:\Documents\_Data-Vault\Code\GitHub\Grounding"
+
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $JournalDir = Join-Path $Root "..\\..\\Journal\\entries"
 $MapAnchor = "journal_ref:"
