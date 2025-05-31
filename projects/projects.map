@@ -1,0 +1,21 @@
+---
+updated: 2025-05-31
+topics:
+  - architecture
+  - tooling
+  - decision-mapping
+  - project management
+subtopics:
+  - retrospectives
+  - onboarding
+  - documentation
+anchors:
+  - architecture notes
+  - tool selection
+  - project timelines
+depth: medium
+tags:
+  - projects
+  - pcshowme
+  - dev
+---
