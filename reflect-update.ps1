@@ -18,7 +18,6 @@ $Files = Get-ChildItem -Path $Root -Recurse -Include *.cht, *.md | Where-Object 
     $_.FullName -notmatch "Journal\\system"
 }
 
-
 foreach ($File in $Files) {
     $Content = Get-Content $File.FullName -Raw
 
