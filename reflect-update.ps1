@@ -28,15 +28,15 @@ foreach ($File in $Files) {
 
     # Find lines with sentiment or milestone triggers
     $Lines = $Content -split "`r?`n"
-    $Matches = $Lines | Where-Object {
+    $ReflectLines = $Lines | Where-Object {
         $line = $_.ToLower()
         ($SentimentTerms + $MilestoneTerms) | Where-Object { $line -like "*$_*" }
     }
 
-    if ($Matches.Count -eq 0) { continue }
+    if ($ReflectLines.Count -eq 0) { continue }
 
     # Redact PII and sensitive info
-    $Redacted = $Matches | ForEach-Object {
+    $Redacted = $ReflectLines | ForEach-Object {
         $_ -replace '\b([A-Z][a-z]+)\b', '[name redacted]' `
             -replace '\b\d{4}-\d{2}-\d{2}\b', '[date]' `
             -replace '\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b', '[ip]' `
@@ -57,13 +57,14 @@ foreach ($File in $Files) {
     # Write journal entry
     $Tags = "#reflection #personal"
     $Yaml = "---`nupdated: $Date`ntags: [$Tags]`nsource: $($File.Name)`n---"
-    $Entry = "$Yaml`n`n$($Redacted -join \"`n\")"
+    $RedactedText = $Redacted -join "`n"
+    $Entry = "$Yaml`n`n$RedactedText"
     Set-Content -Path $JournalPath -Value $Entry
 
     # Replace original lines with redaction marker
     $Marker = "[See Journal Entry $Date-$Id]"
     $NewLines = $Lines | ForEach-Object {
-        if ($Matches -contains $_) { $Marker } else { $_ }
+        if ($ReflectLines -contains $_) { $Marker } else { $_ }
     }
     Set-Content -Path $File.FullName -Value ($NewLines -join "`n")
 
