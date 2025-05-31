@@ -1,0 +1,28 @@
+# Semantic Map: pcSHOWme Project – Multi-Threaded Chat Log
+topics:
+  - Project Management
+  - AI Collaboration
+  - Grounding
+  - Creative Process
+  - Knowledge Base
+subtopics:
+  - Repo Management
+  - VSCode & GitHub Workflows
+  - Meta-Tagging
+  - Automation
+  - Publications
+  - Documentation
+  - Mindset
+  - Next Steps
+depth: 7
+novelty: 7
+revisit: 6
+anchors:
+  - intro: 0
+  - project_structure: 10
+  - workflows: 20
+  - knowledge_base: 30
+  - meta_tagging: 40
+  - publications: 50
+  - mindset: 60
+  - next_steps: 70
