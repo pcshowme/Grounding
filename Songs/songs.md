@@ -2,7 +2,7 @@
 title: Songs Repository Index
 updated: 2025-05-31
 summary: |
-  The Songs repository contains original music compositions, lyrics, and production notes. It covers a wide range of themes and styles, from faith-based anthems to experimental instrumentals. Each song entry includes metadata, lyrical anchors, and creative context to support cataloging and future releases.
+[See Journal Entry 2025-05-31-H]
 ---
 
 ## Overview
@@ -13,3 +13,4 @@ summary: |
 
 ## Purpose
 To serve as a comprehensive catalog and creative reference for all music projects under the pcshowme brand.
+

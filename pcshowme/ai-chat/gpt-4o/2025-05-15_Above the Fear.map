@@ -24,3 +24,5 @@ anchors:
   - production_notes: 60
   - release_strategy: 80
   - monetization: 100
+
+journal_ref: journal-2025-05-31-A.md

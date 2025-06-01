@@ -36,11 +36,11 @@ To document and drive the integration of local and cloud-based AI tools into hig
 
 ---
 
-## 📅 Notable 2025 Milestones
+[See Journal Entry 2025-05-31-I]
 
-- ✅ *Dream, Dare, Do* released (April 13)
-- ✅ *Get Out of Your Head* finished + published (May 11)
-- ✅ *Above the Fear* launched w/ Meta Ads campaign (May 28)
+[See Journal Entry 2025-05-31-I]
+[See Journal Entry 2025-05-31-I]
+[See Journal Entry 2025-05-31-I]
 - 🏁 $350 Meta ad experiment initiated (May 29)
 - 🔧 Samaritan moved from POC → Full Production Status
 
@@ -68,7 +68,7 @@ To document and drive the integration of local and cloud-based AI tools into hig
 
 - This `README.md` will evolve in sync with project cycles.
 - Suggested updates:
-  - At major release milestones
+[See Journal Entry 2025-05-31-I]
   - At the start of each month
   - After any significant AI tool integration or public campaign
 
@@ -80,3 +80,4 @@ To document and drive the integration of local and cloud-based AI tools into hig
 - IT Engineer (AFS / VA) | Azure + Linux Specialist  
 - AI Music Producer | Content Creator @ pcSHOWme  
 - [pcshowme.net](https://pcshowme.net) | YouTube: pcSHOWme Music / AI  
+

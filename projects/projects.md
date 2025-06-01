@@ -22,7 +22,8 @@ For more details, see the Samaritan documentation or related project folders.
 - Architecture diagrams and notes
 - Tooling and technology stack
 - Decision logs and rationale
-- Project milestones and retrospectives
+[See Journal Entry 2025-05-31-G]
 
 ## Purpose
 To provide a structured record of all major projects, supporting collaboration and future onboarding.
+

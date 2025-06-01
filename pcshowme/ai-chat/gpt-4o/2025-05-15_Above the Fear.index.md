@@ -22,9 +22,10 @@
 ---
 
 ## Summary
-This chat session covers the creation, production, and release strategy for the song "Above the Fear," including insights on AI-assisted creativity and project milestones.
+[See Journal Entry 2025-05-31-B]
 
 ---
 
 ## Full Transcript
 See: [2025-05-15_Above the Fear](./2025-05-15_Above%20the%20Fear)
+

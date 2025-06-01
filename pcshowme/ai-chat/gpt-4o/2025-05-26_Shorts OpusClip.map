@@ -19,3 +19,5 @@ anchors:
   - ai_tools: 20
   - content_creation: 30
   - workflow_optimization: 40
+
+journal_ref: journal-2025-05-31-D.md
