@@ -1,18 +1,42 @@
-# High-Level Process Flow (Mermaid)
+# High-Level Process Flow (ASCII)
 
-```mermaid
-flowchart TD
-    A[Create/Edit Content (.cht, .md, source files)] --> B[Run Indexing/Automation]
-    B --> C[Generate or Update md Summaries]
-    B --> D[Generate or Update map Semantic Maps]
-    B --> E[Create or Update cht Transcripts]
-    C --> F[Knowledge Base Ready for Query]
-    D --> F
-    E --> F
-    F --> G[User/AI Query or Review]
-    F --> H[Run reflect-update.ps1 (Redaction/Journal)]
-    H --> I[Redact Sensitive Info in Source]
-    H --> J[Archive Reflection to Journal/entries]
-    I --> K[Knowledge Base Remains Private and Safe]
-    J --> K
-```
+#
+#  +---------------------+
+#  | Create/Edit Content |
+#  |  (.cht, .md, files) |
+#  +---------------------+
+#             |
+#             v
+#  +--------------------------+
+#  | Run Indexing/Automation  |
+#  +--------------------------+
+#      /      |        \
+#     v       v         v
+#  +--------+ +--------+ +--------+
+#  | .md    | | .map   | | .cht   |
+#  |Summary | |Semantic| |Transcript|
+#  +--------+ +--------+ +--------+
+#      \      |        /
+#        \    |      /
+#          v  v    v
+#      +--------------------------+
+#      | Knowledge Base Ready     |
+#      +--------------------------+
+#             |
+#      +------+------+
+#      |             |
+#      v             v
+#  [User/AI Query]   +--------------------------+
+#                    | Run reflect-update.ps1   |
+#                    +--------------------------+
+#                        /           \
+#                       v             v
+#         +-------------------+   +-------------------+
+#         | Redact in Source  |   | Archive to Journal|
+#         +-------------------+   +-------------------+
+#                       \           /
+#                        v         v
+#                +--------------------------+
+#                | Knowledge Base is Private|
+#                +--------------------------+
+#
