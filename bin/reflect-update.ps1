@@ -18,8 +18,8 @@ $IdCounter = 65 # ASCII 'A'
 # Ensure output directories exist
 foreach ($dir in @($JournalDir, $MiscDir)) { if (!(Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null } }
 
-# Only process files in /private/Staging/
-$Files = Get-ChildItem -Path $StagingDir -Recurse -Include *.cht, *.md | Where-Object { !$_.PSIsContainer }
+# Only process files in /private/Staging/ with .raw, .cht, or .md extensions
+$Files = Get-ChildItem -Path $StagingDir -Recurse -Include *.raw, *.cht, *.md | Where-Object { !$_.PSIsContainer }
 
 foreach ($File in $Files) {
     $Content = Get-Content $File.FullName -Raw
@@ -71,25 +71,30 @@ foreach ($File in $Files) {
         if ($ReflectLines -contains $_) { $Marker } else { $_ }
     }
 
-    # Output processed file to /pcshowme/ai-chat/misc/ with same filename
-    $OutFile = Join-Path $MiscDir $File.Name
-    Set-Content -Path $OutFile -Value ($NewLines -join "`n")
+    # Determine base name for output files (strip .raw, .cht, .md extension)
+    $BaseName = [System.IO.Path]::GetFileNameWithoutExtension($File.Name)
 
-    # Optionally update .map file in misc/
-    $MapFile = $File.FullName -replace '\.(cht|md)$', '.map'
-    $MiscMapFile = Join-Path $MiscDir ([System.IO.Path]::GetFileName($MapFile))
-    if (Test-Path $MapFile) {
-        if (!(Test-Path $MiscMapFile)) {
-            Copy-Item $MapFile $MiscMapFile
-        }
-        $MapContent = Get-Content $MiscMapFile -Raw
-        if ($MapContent -notmatch "journal_ref:") {
-            Add-Content -Path $MiscMapFile -Value "`njournal_ref: $JournalFile"
-        }
+    # Output filtered chat as .cht
+    $ChtFile = Join-Path $MiscDir ($BaseName + ".cht")
+    Set-Content -Path $ChtFile -Value ($NewLines -join "`n")
+
+    # Output summary as .md
+    $MdFile = Join-Path $MiscDir ($BaseName + ".md")
+    $Summary = "# Summary for $BaseName`n`n" + ($Redacted -join "`n")
+    Set-Content -Path $MdFile -Value $Summary
+
+    # Output semantic map as .map
+    $MapFile = Join-Path $MiscDir ($BaseName + ".map")
+    if (!(Test-Path $MapFile)) {
+        Set-Content -Path $MapFile -Value "journal_ref: $JournalFile"
     }
+    elseif ((Get-Content $MapFile -Raw) -notmatch "journal_ref:") {
+        Add-Content -Path $MapFile -Value "`njournal_ref: $JournalFile"
+    }
+
     $IdCounter++
 }
 
-Write-Host "REFLECT onboarding complete. Processed files in /pcshowme/ai-chat/misc/ and journal entries in /private/Journal/entries/."
+Write-Host "REFLECT onboarding complete. Processed .raw, .cht, .md files to .cht, .md, .map in /pcshowme/ai-chat/misc/ and journal entries in /private/Journal/entries/."
 
 # End of REFLECT Update Script
