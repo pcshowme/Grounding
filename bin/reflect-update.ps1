@@ -34,7 +34,10 @@ foreach ($File in $Files) {
         ($SentimentTerms + $MilestoneTerms) | Where-Object { $line -like "*$_*" }
     }
 
-    if ($ReflectLines.Count -eq 0) { continue }
+    # If no reflections found, use a default note
+    if ($ReflectLines.Count -eq 0) {
+        $ReflectLines = @('No reflections found in this chat log.')
+    }
 
     # Redact only high-sensitivity PII (bank, SSN, API keys, credit card, etc.)
     $Redacted = $ReflectLines | ForEach-Object {
