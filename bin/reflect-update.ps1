@@ -92,6 +92,16 @@ foreach ($File in $Files) {
         Add-Content -Path $MapFile -Value "`njournal_ref: $JournalFile"
     }
 
+    # Update master index file
+    $IndexFile = Join-Path $Root "pcshowme/ai-chat/index.md"
+    $IndexEntry = "- [$BaseName]($($ChtFile.Replace($Root + '\\', '').Replace('\\', '/'))) | [summary]($($MdFile.Replace($Root + '\\', '').Replace('\\', '/'))) | [map]($($MapFile.Replace($Root + '\\', '').Replace('\\', '/'))) | $Date"
+    if (!(Test-Path $IndexFile)) {
+        Set-Content -Path $IndexFile -Value "# AI Chat Knowledge Base Index`n`n| Chat | Summary | Map | Date |`n|---|---|---|---|`n$IndexEntry"
+    }
+    else {
+        Add-Content -Path $IndexFile -Value $IndexEntry
+    }
+
     $IdCounter++
 }
 
