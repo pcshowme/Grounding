@@ -5,8 +5,8 @@
 Set-Location -Path "D:\Documents\_Data-Vault\Code\GitHub\Grounding"
 
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
-$StagingDir = Join-Path $Root "..\..\private\Staging"
-$JournalDir = Join-Path $Root "..\..\private\Journal\entries"
+$StagingDir = Join-Path $Root "..\private\Staging"
+$JournalDir = Join-Path $Root "..\private\Journal\entries"
 $MiscDir = Join-Path $Root "pcshowme\ai-chat\misc"
 $MapAnchor = "journal_ref:"
 $SentimentTerms = @("felt", "prayer", "grateful", "struggling", "thankful", "blessed", "hope", "faith", "joy", "peace", "forgive", "healing")
