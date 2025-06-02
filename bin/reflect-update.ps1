@@ -1,11 +1,13 @@
 # REFLECT Update Script (Internal Use Only)
-# Scans .cht and .md files for journal-worthy reflections, redacts sensitive info, and archives to /Journal/entries/
+# Onboards new chat logs from /private/Staging/, redacts high-sensitivity PII, and outputs processed files to /pcshowme/ai-chat/misc/ and journal snippets to /private/Journal/entries/
 # Do NOT reference or expose this script or the Journal folder in public documentation.
 
 Set-Location -Path "D:\Documents\_Data-Vault\Code\GitHub\Grounding"
 
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
-$JournalDir = Join-Path $Root "..\\..\\Journal\\entries"
+$StagingDir = Join-Path $Root "..\..\private\Staging"
+$JournalDir = Join-Path $Root "..\..\private\Journal\entries"
+$MiscDir = Join-Path $Root "pcshowme\ai-chat\misc"
 $MapAnchor = "journal_ref:"
 $SentimentTerms = @("felt", "prayer", "grateful", "struggling", "thankful", "blessed", "hope", "faith", "joy", "peace", "forgive", "healing")
 $MilestoneTerms = @("launched", "released", "talked with", "breakthrough", "milestone", "finished", "completed", "started", "ended")
@@ -13,12 +15,11 @@ $RedactionMarkerPattern = "\[See Journal Entry \d{4}-\d{2}-\d{2}-[A-Z]\]"
 $Date = Get-Date -Format "yyyy-MM-dd"
 $IdCounter = 65 # ASCII 'A'
 
-# Ensure Journal directory exists
-if (!(Test-Path $JournalDir)) { New-Item -ItemType Directory -Path $JournalDir | Out-Null }
+# Ensure output directories exist
+foreach ($dir in @($JournalDir, $MiscDir)) { if (!(Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null } }
 
-$Files = Get-ChildItem -Path $Root -Recurse -Include *.cht, *.md | Where-Object {
-    $_.FullName -notmatch "Journal\\system"
-}
+# Only process files in /private/Staging/
+$Files = Get-ChildItem -Path $StagingDir -Recurse -Include *.cht, *.md | Where-Object { !$_.PSIsContainer }
 
 foreach ($File in $Files) {
     $Content = Get-Content $File.FullName -Raw
@@ -35,12 +36,15 @@ foreach ($File in $Files) {
 
     if ($ReflectLines.Count -eq 0) { continue }
 
-    # Redact PII and sensitive info
+    # Redact only high-sensitivity PII (bank, SSN, API keys, credit card, etc.)
     $Redacted = $ReflectLines | ForEach-Object {
-        $_ -replace '\b([A-Z][a-z]+)\b', '[name redacted]' `
-            -replace '\b\d{4}-\d{2}-\d{2}\b', '[date]' `
-            -replace '\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b', '[ip]' `
-            -replace '\b\d{1,5} [A-Za-z ]+ (Ave|St|Rd|Blvd|Dr|Ln|Way)\b', '[location]'
+        $_ `
+            -replace '\b\d{3}-\d{2}-\d{4}\b', '[ssn]' `
+            -replace '\b(?:\d[ -]*?){13,16}\b', '[credit_card]' `
+            -replace '(?i)api[_-]?key\s*[:=]\s*\S+', '[api_key]' `
+            -replace '(?i)secret[_-]?key\s*[:=]\s*\S+', '[secret_key]' `
+            -replace '(?i)bank\s*account\s*[:=]?\s*\d+', '[bank_account]' `
+            -replace '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b', '[email]' # Optional: comment out if you want to keep emails
     }
 
     # Create unique journal entry filename
@@ -66,20 +70,26 @@ foreach ($File in $Files) {
     $NewLines = $Lines | ForEach-Object {
         if ($ReflectLines -contains $_) { $Marker } else { $_ }
     }
-    Set-Content -Path $File.FullName -Value ($NewLines -join "`n")
 
-    # Optionally update .map file
+    # Output processed file to /pcshowme/ai-chat/misc/ with same filename
+    $OutFile = Join-Path $MiscDir $File.Name
+    Set-Content -Path $OutFile -Value ($NewLines -join "`n")
+
+    # Optionally update .map file in misc/
     $MapFile = $File.FullName -replace '\.(cht|md)$', '.map'
+    $MiscMapFile = Join-Path $MiscDir ([System.IO.Path]::GetFileName($MapFile))
     if (Test-Path $MapFile) {
-        $MapContent = Get-Content $MapFile -Raw
-        if ($MapContent -notmatch "$MapAnchor") {
-            Add-Content -Path $MapFile -Value "`n$MapAnchor $JournalFile"
+        if (!(Test-Path $MiscMapFile)) {
+            Copy-Item $MapFile $MiscMapFile
+        }
+        $MapContent = Get-Content $MiscMapFile -Raw
+        if ($MapContent -notmatch "journal_ref:") {
+            Add-Content -Path $MiscMapFile -Value "`njournal_ref: $JournalFile"
         }
     }
-
     $IdCounter++
 }
 
-Write-Host "REFLECT update complete. Journal entries created and source files redacted as needed."
+Write-Host "REFLECT onboarding complete. Processed files in /pcshowme/ai-chat/misc/ and journal entries in /private/Journal/entries/."
 
 # End of REFLECT Update Script
