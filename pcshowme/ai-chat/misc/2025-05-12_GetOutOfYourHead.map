@@ -1,1 +1,13 @@
-map: 2025-05-12_GetOutOfYourHead
+# Semantic Map: 2025-05-12 Get Out Of Your Head
+
+topics:
+  - Port Aransas trip
+  - Remote work
+  - Wi-Fi troubleshooting
+  - YouTube analytics
+  - Creative planning
+anchors:
+  - trip_logistics: 0
+  - tech_troubleshooting: 10
+  - channel_growth: 20
+  - content_ideas: 30

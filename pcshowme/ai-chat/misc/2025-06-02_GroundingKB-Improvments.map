@@ -1,1 +1,14 @@
-map: 2025-06-02_GroundingKB-Improvments
+# Semantic Map: 2025-06-02 Grounding Knowledge Base Improvements
+
+topics:
+  - Omnia context handoff
+  - Monetization strategy
+  - YouTube metrics
+  - Repo indexing
+  - Living context file
+anchors:
+  - context_sync: 0
+  - monetization: 10
+  - engagement: 20
+  - repo_indexing: 30
+  - next_steps: 40
