@@ -6,3 +6,5 @@
 - [2025-05-12_GetOutOfYourHead](misc/2025-05-12_GetOutOfYourHead.cht) | [summary](misc/2025-05-12_GetOutOfYourHead.md) | [map](misc/2025-05-12_GetOutOfYourHead.map) | 2025-06-02
 - [2025-05-12_GetOutOfYourHead](NewChats/2025-05-12_GetOutOfYourHead.cht) | [summary]() | [map]() | 2025-06-14
 - [2025-06-04_MonetizationPush](NewChats/2025-06-04_MonetizationPush.cht) | [summary]() | [map]() | 2025-06-14
+- [2025-06-05_RacapAndStrategy](NewChats/2025-06-05_RacapAndStrategy.cht) | [summary]() | [map]() | 2025-06-14
+- [2025-06-14_VideoScript](NewChats/2025-06-14_VideoScript.cht) | [summary]() | [map]() | 2025-06-14

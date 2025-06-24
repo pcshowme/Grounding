@@ -1,0 +1,30 @@
+{
+  "title": "2025-06-14_VideoScript",
+  "date": "2025-06-14",
+  "main_topics": [
+    "Channel rebrand and mission",
+    "AI Street video planning",
+    "Creative workflow and tools",
+    "Music project: Even the Fire Gets Cold",
+    "Philosophy and audience engagement"
+  ],
+  "entities": [
+    "pcSHOWme",
+    "AI Street video",
+    "Even the Fire Gets Cold",
+    "Joe (Christian psychologist)",
+    "YouTube",
+    "Meta Ads",
+    "Suno",
+    "ComfyUI",
+    "Oobabooga"
+  ],
+  "relationships": [
+    {"from": "Channel rebrand and mission", "to": "AI Street video planning", "type": "enables"},
+    {"from": "AI Street video planning", "to": "Creative workflow and tools", "type": "utilizes"},
+    {"from": "Even the Fire Gets Cold", "to": "Joe (Christian psychologist)", "type": "co-authored"},
+    {"from": "Philosophy and audience engagement", "to": "Channel rebrand and mission", "type": "guides"},
+    {"from": "Music project: Even the Fire Gets Cold", "to": "Creative workflow and tools", "type": "integrates"}
+  ],
+  "summary": "This semantic map outlines the relationships between the channel's rebrand, AI Street video planning, creative workflow, and music projects as discussed in the 2025-06-14_VideoScript chat."
+}

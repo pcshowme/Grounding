@@ -1,0 +1,31 @@
+{
+  "title": "2025-06-05_RacapAndStrategy",
+  "date": "2025-06-05",
+  "main_topics": [
+    "Channel recap and analytics",
+    "Brand/identity update",
+    "AI and creative direction",
+    "Content planning (AI Street, new song)",
+    "Workflow and tool integration",
+    "Philosophy and mission"
+  ],
+  "entities": [
+    "pcSHOWme",
+    "Above the Fear",
+    "Even the Fire Gets Cold",
+    "Joe (Christian psychologist)",
+    "YouTube",
+    "Meta Ads",
+    "Suno",
+    "Udio"
+  ],
+  "relationships": [
+    {"from": "Above the Fear", "to": "Channel analytics", "type": "informs"},
+    {"from": "Brand/identity update", "to": "Content planning", "type": "enables"},
+    {"from": "AI Street video", "to": "Brand/identity update", "type": "showcases"},
+    {"from": "Even the Fire Gets Cold", "to": "Joe (Christian psychologist)", "type": "co-authored"},
+    {"from": "Workflow", "to": "Tool integration", "type": "automates"},
+    {"from": "Philosophy and mission", "to": "Content planning", "type": "guides"}
+  ],
+  "summary": "This semantic map outlines the relationships between channel analytics, rebranding, creative direction, and workflow automation for pcSHOWme as discussed in the 2025-06-05_RacapAndStrategy chat."
+}
