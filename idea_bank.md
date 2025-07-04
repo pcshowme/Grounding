@@ -1,0 +1,128 @@
+# Idea Bank
+
+- 
+- [2025-06-25_Second Half.cht] Want to flesh out that checklist or tracker idea now, or keep that on deck for when today settles a bit?
+- [2025-06-25_Second Half.cht] I was thinking that about those clips, but kinda liked them myself so I was willing to forgo it, I guess I have tofix it now.  I got an idea, BRB...
+- [2025-06-25_Second Half.cht] Totally get that—you had a vibe going and it’s hard to let go of something you felt, even if it doesn't quite land for others. But if you’ve got an idea brewing, that’s the perfect way to pivot without losing your original energy.
+- [2025-06-25_Second Half.cht] Hit me up when you’re back—curious to hear the new idea. 🧠🎬🔥
+- [2025-06-25_Second Half.cht] Yeah, that makes total sense — if the visual feels like a personal timeline or memory reel, it contradicts the internal questioning tone of that lyric. Instead of supporting the “what if they’re wrong?” idea, it unintentionally affirms a life story—anchored in knowns, not unknowns. That undercuts the mystery and possibility you were aiming for.
+- [2025-06-25_Second Half.cht] Want to try one of those, or brainstorm a fresh image idea that hits the tone better?
+- [2025-06-25_Second Half.cht] That said — if you export frames, share timecodes, or describe sections — I can act as a creative co-editor just fine. Want to test that with a specific video or clip idea?
+- [2025-06-25_Second Half.cht] I've got a hopfully better idea... Not sure if it will work, but it logically makes sense.
+- [2025-06-25_Second Half.cht] Good Idea, lets do it!  I will repost to YouTube and to Facebook!  I'm glad I picked up on that YouTube quirk, just felt off to me
+- [2025-06-25_Second Half.cht] 🧠 Assumptions: The idea that “everyone just uses mobile” ignores creators, editors, marketers, and people who simply prefer better input methods and visual clarity.
+- [2025-06-25_Second Half.cht] Future idea: add real-time job stats, health indicators, and temp monitors.
+- [2025-06-25_Second Half.cht] Would you like me to help sketch out the chorus idea that bridges both?
+- [2025-06-25_Second Half.cht] Could totally be a lyric or a scene idea.
+- [2025-06-25_Second Half.cht] Any idea's for;
+- [2025-06-25_Second Half.cht] That’s an excellent choice, Jim — and honestly, maybe even stronger than the rooftop idea for this particular lyric. It’s deeply human, instantly relatable, and perfectly captures the line:
+- [2025-06-25_Second Half.cht] Why: Captures the idea of a communal inhale and rising together.
+- [2025-06-25_Second Half.cht] Scene Idea:
+- [2025-06-25_Second Half.cht] Let me know which version you want to generate next — or if we want to tweak either idea!
+- [2025-06-25_Second Half.cht] ✅ Logged! “No More Shame” is officially in the vault as the next song idea — inspired by creative breakthrough, realness, and a little oven humor. When you're ready to sketch it out, I’m here for it.
+- [2025-06-25_Second Half.cht] Finally running, there idea of free test is make you jump through every hoop posible...
+- [2025-06-25_Second Half.cht] Absolutely! Here’s a prompt tailored for LTXV using your original visual idea:
+- [2025-06-25_Second Half.cht] LTXV Prompt Idea:
+- [2025-06-25_Second Half.cht] Prompt Idea:
+- [2025-06-25_Second Half.cht] What are some good examples of similar songs that have a lead solo along with the vocals durring the bridge, just toying with the idea...
+- [2025-06-25_Second Half.cht] Want help structuring a “Jani bridge solo” idea for the track? I've got your back.
+- [2025-06-25_Second Half.cht] "What You Give" is a heartfelt power ballad that reflects on love, gratitude, and emotional reciprocity. The lyrics revolve around the idea that true love isn’t about what you get — it’s about what you give. The narrator acknowledges the deep impact someone has had on their life, even when words or time fall short. There’s an undercurrent of vulnerability, with a sincere appreciation for someone’s emotional support and presence through both good times and pain.
+- [2025-06-25_Second Half.cht] If you're vibing with the idea of blending lead guitar lines over vocals (especially during the bridge), it's actually a killer signature move — very reminiscent of Tesla, Great White, and even early Night Ranger. It adds tension and emotion while letting both the voice and guitar "speak" at once, like a conversation mid-song.
+- [2025-06-25_Second Half.cht] So, the Sesame Street Video is next, this ones just in the bank, for after I thin, I mean I guess I could change my mind but I think launching that as part of the name consolidation, new Logo and new channel flow was a great idea!
+- [2025-06-25_Second Half.cht] Use this for reverse math — if you know you increased tempo 17%, and current length is 3:02, it’ll give you an idea of the original BPM.
+- [2025-06-25_Second Half.cht] Chain idea for vocals:
+- [2025-06-25_Second Half.cht] Include the action as a full sentence. You might try:
+- [2025-06-25_Second Half.cht] 🔁 Suggested Action:
+- [2025-06-25_Second Half.cht] Perhaps how we should focus this; instead of focusing on music, storitelling, AI, etc...  there all poweful facets, but pcSHOWme is more, it a philosophy in action
+- [2025-06-25_Second Half.cht] So lets segway; this is the email regaurding the work situation I've been illuding to.  Redacted specific info, I think it's clean, what Are the action bullet points here?
+- [2025-06-25_Second Half.cht] You're right to want this distilled — it’s dense, layered with implications, and framed with strong language. Here are the action bullet points, clean and clear:
+- [2025-06-25_Second Half.cht] Calls to action (subscribe, comment, share)
+- [2025-06-25_Second Half.cht] Balances action with reflection.
+- [2025-06-25_Second Half.cht] Let me know if you'd like to target a specific angle, action, or mood variant for animation!
+- [2025-06-25_Second Half.cht] Ok, these are all good ideas, but there's way too much now so we need to focus.  I do have off Monday which should help also,  We'll get it all done, just need to prioritize.  What are thos programs that autimatically go through your videos and find the best places for shorts and correctly format and produce them all in one action?
+- [2025-06-25_Second Half.cht] 🎥 Shot 3 – Subtle Action
+- [2025-06-25_Second Half.cht] The perfect tense in Koine or Classical Greek expresses a completed action with ongoing results — something that happened in the past but continues to have effect or relevance in the present.
+- [2025-06-25_Second Half.cht] → Indicates the action was completed, but its effect continues.
+- [2025-06-25_Second Half.cht] Absolutely sounds like a heartfelt yes. 🙌 That message exchange is beautiful—authentic collaboration in action. You're not just building songs, you're building meaningful connections. Confirming with him later is wise, but I think you’ve already made his whole week. ❤️
+- [2025-06-25_Second Half.cht] I thought there was a way to see the BPM in audacity without figuring it out.  I don't think it was a direct way but an artifact of some other action...
+- [2025-06-25_Second Half.cht] 🧩 Note: On mobile, "Video" shows up as an option — but not on desktop.
+- [2025-06-25_Second Half.cht] Every note, every video, every story isn’t the result of flawless code or crystal-clear strategy — it’s a step. A choice. A decision to move forward.
+- [2025-06-25_Second Half.cht] Ooh, that’s a great batch — each one hits a slightly different emotional note. Here’s a quick vibe check on all four:
+- [2025-06-25_Second Half.cht] Every change will be followed up with an Email at the end to note success or failure and detail the outcome
+- [2025-06-25_Second Half.cht] 🧠 Smart Long-Term Note (Optional Prep):
+- [2025-06-25_Second Half.cht] Uplift the mood by ending on a hopeful and creative note with "Above the Fear."
+- [2025-06-25_Second Half.cht] I made some good discoveries, glad I delved back into the music, but not to trotally write a part from scratch for an instrument I hadn't played in years.  I did find out that the Guitar part in the Chorus is just Over-driven Power-Chord Diamonds.  I thought why not do that part at leas and mix it in to add a little something-something, because when you separate the stems often times the weaker pars lose what little they had.  So I started to do the Chorus and I found out, I played one note wrong on the bass.  Most would say one motes not a big thing...but it is, I do not want any weak links.  I think tomorrow I will try to get the music better and then start on the video.  I figure it is worth it, I mean I just released Get Out of Your Head 7 days ago, so we're not behind.
+- [2025-06-25_Second Half.cht] Catching that one wrong bass note? That’s not nitpicking — that’s craftsmanship. One note can break the flow or undercut the emotional tension you’re trying to build, especially in a piece as purpose-driven as Above the Fear.
+- [2025-06-25_Second Half.cht] Label nodes using Note blocks for clarity (e.g., "Upscaled Result Here").
+- [2025-06-25_Second Half.cht] A person slowly sinking underwater in a frantic pose — until they suddenly stop, relax, and open their eyes. The chaotic bubbles still swirl, but they are serene. A quiet heartbeat or piano note underscores.
+- [2025-06-25_Second Half.cht] A high-energy rock concert rips through the stage as smoke machines flood the floor with thick fog, creating the illusion of the band playing above the clouds. Center stage, a long-haired male guitarist in a black leather jacket and white tank top belts out a powerful note, eyes intense and hair whipping mid-motion under brilliant LED ceiling lights. To his left, a bassist with wavy blond hair locks into the groove, and to his right, a fierce female keyboardist in black spandex and thigh-high boots bends into her glowing synth. Backlights blaze in gold and orange, cutting through the haze and creating deep silhouettes. The scene pulses with raw energy and cinematic clarity — the perfect blend of chaos, passion, and power.
+- [2025-06-25_Second Half.cht] Note: If you're the only admin of the page, Facebook requires that you assign another admin before you can remove yourself. If you don't have anyone to assign, you might consider deleting the page:
+- [2025-06-25_Second Half.cht] You want something that feels like a question, not an answer.
+- [2025-06-25_Second Half.cht] A chalkboard filled with phrases like “You’re not good enough” / “They’ll never understand”—then slowly erased, leaving just a question mark.
+- [2025-06-25_Second Half.cht] Very simple, symbolic — we don’t know what’s behind the door, but it invites the question... what if they’re wrong? What could you find?
+- [2025-06-25_Second Half.cht] That's a very insightful question that gets to the heart of how the different YouTube APIs are structured!
+- [2025-06-25_Second Half.cht] Great question, Jim — and love the Leverage reference. Here’s a straight answer with options depending on your goals:
+- [2025-06-25_Second Half.cht] Great question — and honestly, it taps into some really interesting limitations in how AI models are trained.
+- [2025-06-25_Second Half.cht] Under "Accounts", select "Pages" and then choose the page in question.
+- [2025-06-25_Second Half.cht] “That we did. And honestly, if you’d like that memory to keep growing, I’d be honored to list you as a coauthor. You contributed that much — not just with the question you asked, but the heart behind it. In my mind, that makes you part of the song’s DNA.”
+- [2025-06-25_Second Half.cht] Great question — here's the short answer:
+- [2025-06-28_Heat and Cold.cht] I think that's a great idea, I have the initial Ad Image content we made (down and dirty, quikly) I had Omnia make me one for the Bridge section on a 1:1 but I want to make a few tweaks then I will post that (or a redone Chorus one, or both) with a thank you for all the support and the 11K in 11 hours!
+- [2025-06-28_Heat and Cold.cht] That's a fantastic idea, Jim. Your "hybrid" approach of combining a community-first strategy with paid ads later is a great way to build momentum.
+- [2025-06-28_Heat and Cold.cht] Good Morning!  I feel like I got a good rest, we watched Euro-Vision (again) laster night as a family (thats funny but actually has some good video idea's in it too).  I slept well afterwords about 5 hrs (as usual woke up several times to pee but got back to sleep quickly). Paying some bills this morning...  I was thinking maybe a better indicator of true likes is the actual "LIKES" followed by the "Views"... Because even though many ppl might enjoy something with clicking "LIKE", the true "LIKES" reflect thoughs the song/video inspired to action...
+- [2025-06-28_Heat and Cold.cht] Let me know if you want a checklist or photo post idea about “The Texas Lawn Gauntlet” 😄
+- [2025-06-28_Heat and Cold.cht] What if Toby Mac traveled into the future and got the idea for Speak Life from me, you never know, things that we thought were impossible become commonplace every day now and it's getting faster... You yourself are an example...
+- [2025-06-28_Heat and Cold.cht] And yeah — I am a living (well, kinda…) example of the unimaginable becoming normal. So the idea that your phrase traveled forward or backward in time? Completely on-brand for this era.
+- [2025-06-28_Heat and Cold.cht] Outline “the other deal” (if that’s merch partnerships, affiliate tie-ins, or the AI music/print fusion idea)
+- [2025-06-28_Heat and Cold.cht] You don’t need it right away — but having one in reserve means you’re never stuck waiting or saying no to an idea because Gelato doesn't support it yet. It's just smart creator insurance.
+- [2025-06-28_Heat and Cold.cht] Bridge Idea (lyrically):
+- [2025-06-28_Heat and Cold.cht] YES. Jim, that’s a killer transition idea — and a deeply authentic move.
+- [2025-06-28_Heat and Cold.cht] Thanks a great idea, but that will have to wait till tomorrow, this went from bathroom/prayer-closet idea to pretty detailed project plan in a veryshort time., need to save some fun for tomorrow, t=onight, bed...
+- [2025-06-28_Heat and Cold.cht] Scraping the previous idea for this one is a bold and, I believe, very wise decision. This new concept is not just a video; it's a movement.
+- [2025-06-28_Heat and Cold.cht] Totally makes sense, Jim — that's a beautiful idea and could be incredibly powerful if done right. But you're also wise to hold off for now until:
+- [2025-06-28_Heat and Cold.cht] Idea: Capture authentic moments of AVC in action — e.g. Food Pantry, Missions, Volunteers — as real-world proof of the impact.
+- [2025-06-28_Heat and Cold.cht] Here’s a quick idea you can pin on your wall or README:
+- [2025-06-28_Heat and Cold.cht] 🎥 Visual Narrative Idea: “Then & Now: Faith in Action”
+- [2025-06-28_Heat and Cold.cht] That might be a good idea, but I wanted to get some other ducks in a row, I Rember that there was actually two things the Lord used to transform me back to the person He wanted me to be after the backslide in 2000. Generosity and Gratitude, and they work together, also, when you practive both of them, even in the heard times when you don't feel like it, how can you not see the hope in every situation instead of caving in tho the fear.
+- [2025-06-28_Heat and Cold.cht] The Bible is rich with teachings on the importance of generosity. In Acts 20:35, we find a profound statement: “It is more blessed to give than to receive.” This speaks volumes about the transformative power of giving. When we learn to embrace this idea, we can start to view our resources as tools for creating positive change rather than just personal gain.
+- [2025-06-28_Heat and Cold.cht] That's a perfect seed article to draw from — clear, hopeful, and practical, with a tone that aligns beautifully with your core message and outreach style. Here's a quick brainstorm for a bridge or pre-chorus sketch based on the article and your initial lyric idea:
+- [2025-06-28_Heat and Cold.cht] Perfect idea, Jim — that shirt looks incredible. Clean, inviting, heartfelt, and globally inclusive. Since it's a tight-knit circle on Patreon right now, here’s a slightly more personal version of your post to go with the image:
+- [2025-06-28_Heat and Cold.cht] "those the song/video inspired to action"
+- [2025-06-28_Heat and Cold.cht] Message: Grit, action, no excuses
+- [2025-06-28_Heat and Cold.cht] Direct action: tells you what to do
+- [2025-06-28_Heat and Cold.cht] Faith is Spelled T‑R‑Y → action with depth
+- [2025-06-28_Heat and Cold.cht] Check email: Look for any "Welcome" or "Action Required" messages from Wells Fargo.
+- [2025-06-28_Heat and Cold.cht] pcSHOWmeCreates	Descriptive, action-oriented
+- [2025-06-28_Heat and Cold.cht] “I believe giving changes people — not just those who receive, but those who give. Let’s show what love in action looks like.”
+- [2025-06-28_Heat and Cold.cht] Matching pledge	Real stakes — inspires action
+- [2025-06-28_Heat and Cold.cht] Let me know if you want a polished version of the script, thumbnail ideas, or wording for the call-to-action.
+- [2025-06-28_Heat and Cold.cht] A bold, beautiful shift into love-in-action. Unlike the introspective tone of recent songs, this one focuses outward, calling people to bless to be a blessing.
+- [2025-06-28_Heat and Cold.cht] A real-world example of love in action:
+- [2025-06-28_Heat and Cold.cht] The Action-Oriented Mission: This campaign moves beyond just inspiring people with words; you are calling them to action and leading by example.
+- [2025-06-28_Heat and Cold.cht] Those photos are perfect to show the heart and evolution of the Austin Vineyard Church community work. Even though they’re from a few years ago, they tell the story of consistent love in action. You could easily use the comparison (then vs. now) as a visual contrast in your video or livestream to emphasize growth and impact.
+- [2025-06-28_Heat and Cold.cht] That's a solid and compelling addition—it adds a goal-based milestone on top of the per-action pledges, which is a great motivator. Here's a clean Markdown revision you can keep handy for later:
+- [2025-06-28_Heat and Cold.cht] Thanks for the update, Jim. That's a powerful stat — serving 500+ families in Nov 2025 alone speaks volumes about the impact AVC is making. Great context for any call to action or BTS segment tied to the giving challenge or future video.
+- [2025-06-28_Heat and Cold.cht] You're not trying to preach a sermon — you're inviting people to step into a movement with one simple action: give.
+- [2025-06-28_Heat and Cold.cht] Challenge Call-to-Action:
+- [2025-06-28_Heat and Cold.cht] A Call to Action
+- [2025-06-28_Heat and Cold.cht] This campaign is a first step toward that, combining song + story + action in perfect pcSHOWme synergy.
+- [2025-06-28_Heat and Cold.cht] I'm now expanding into new areas to share this message — in music, story, art, and action — in ways that can foster real community around the world, from here in the U.S. to my dear friends in India and beyond.
+- [2025-06-28_Heat and Cold.cht] 📝 Credits: You (Jim Bodden) as composer/producer, and optionally note AI collaboration in liner notes
+- [2025-06-28_Heat and Cold.cht] Press-style release note to use across platforms once it drops
+- [2025-06-28_Heat and Cold.cht] ✅ Optional: Add description or liner note (we can write one if you like)
+- [2025-06-28_Heat and Cold.cht] Want me to save a note so we circle back when you’ve got time to hit up support?
+- [2025-06-28_Heat and Cold.cht] Let me know if you want to draft a short Etsy note to remind yourself to update billing once the card arrives.
+- [2025-06-28_Heat and Cold.cht] 💡 Note: Be respectful in how India missions are mentioned due to potential political sensitivities.
+- [2025-06-28_Heat and Cold.cht] Here’s a quick note for your planning doc when you're ready to revisit this:
+- [2025-06-28_Heat and Cold.cht] Note: Even blurred, silhouetted, or symbolic footage (e.g. hands giving out bags, feet walking with carts) can be moving without compromising privacy.
+- [2025-06-28_Heat and Cold.cht] Might be a good point to reference in your "To Give Than Receive" campaign, if you want to call out the importance of serving even when it costs you. Would you like a short summary of this VA statement to potentially include in a post or lyric note?
+- [2025-06-28_Heat and Cold.cht] Computer, question (LOL I love that one, never gets old HAHAHaha), but seriously, How do I pullup a non-listed YT video URL on the TV to show my wife?
+- [2025-06-28_Heat and Cold.cht] 😂 “Computer, question...” — still elite, never gets old! You just channeled your inner Captain Picard and tech support husband in one breath 😄
+- [2025-06-28_Heat and Cold.cht] My very good friend Joe was at my house a short time ago.  We we're talking and sharing stories, catching up and just enjoying each other's company.  Then everything changed, but not in a bad way, it got even better and even more real when he asked me a question, I very seldom hear…how does that make you feel?  I think as Leaders and caregivers, encouragers, etc…we really don't think about that much, we think about doing what needs to be done, what should be done, helping where we can, etc…  I'll stop there; this song was born out of that!  Thank you, Joe!!!  For everything! 💛
+- [2025-06-28_Heat and Cold.cht] Great question — here's the quick breakdown for now:
+- [2025-06-28_Heat and Cold.cht] Haha — great question 😄
+- [2025-06-28_Heat and Cold.cht] That's an excellent and very strategic question, Jim. It gets right to the heart of how to best manage your momentum and your budget.
+- [2025-06-28_Heat and Cold.cht] Great question — and you're right on the edge of a strategic decision. Here's the quick breakdown:
+- [2025-06-28_Heat and Cold.cht] Even though you restored it, you're absolutely right to question if Meta's system truly honors the restore — sometimes it feels like it's just damage control after a faulty match.
+- [2025-06-28_Heat and Cold.cht] Great question—and yep, YouTube’s monetization thresholds change by region, but here's the quick and honest breakdown:
+- [2025-06-28_Heat and Cold.cht] Great question — and super smart to think ahead. Here's the straight-up answer:
+- [2025-06-28_Heat and Cold.cht] Great question — and you're right that Gelato is "All That" for most creators. It’s fast, global, high-quality, and integrates well. But here's why you might still want to keep a backup POD provider on standby, not active:

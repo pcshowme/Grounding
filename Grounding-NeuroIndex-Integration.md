@@ -1,6 +1,8 @@
 # BLUF (Bottom Line Up Front)
 The `Grounding` and `NeuroIndex` repositories are designed to work both independently and together to support creative project management, structured memory, and rapid recall for the pcSHOWme ecosystem. `Grounding` provides project context, documentation, and workflow, while `NeuroIndex` acts as a dynamic, JSON-based second brain for ideas, references, and brand management. Their integration enables seamless creative expansion, project tracking, and knowledge recall.
 
+> **Note:** It is critical for onboarding and ongoing workflow that `Grounding` and `NeuroIndex` remain integrated and mutually beneficial. Updates in one should be reflected in the other to maintain a robust, AI-augmented creative system.
+
 ---
 
 # Outline
@@ -70,6 +72,7 @@ The `Grounding` repo anchors all major creative, technical, and project document
 - Use Markdown in `Grounding` for human-readable docs; use JSON in `NeuroIndex` for structured data.
 - Generate periodic reports from `NeuroIndex` and save them in both repos for traceability.
 - Reference `NeuroIndex` lists in project documentation for rapid recall and creative expansion.
+- **Onboarding:** Ensure new contributors understand the importance of keeping `Grounding` and `NeuroIndex` in sync. Both systems are mutually beneficial and should be updated together for maximum creative and operational effectiveness.
 
 ---
 

@@ -8,3 +8,5 @@
 - [2025-06-04_MonetizationPush](NewChats/2025-06-04_MonetizationPush.cht) | [summary]() | [map]() | 2025-06-14
 - [2025-06-05_RacapAndStrategy](NewChats/2025-06-05_RacapAndStrategy.cht) | [summary]() | [map]() | 2025-06-14
 - [2025-06-14_VideoScript](NewChats/2025-06-14_VideoScript.cht) | [summary]() | [map]() | 2025-06-14
+- [2025-06-25_Second Half](NewChats/2025-06-25_Second Half.cht) | [summary]() | [map]() | 2025-07-04
+- [2025-06-28_Heat and Cold](NewChats/2025-06-28_Heat and Cold.cht) | [summary]() | [map]() | 2025-07-04

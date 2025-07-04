@@ -14,7 +14,9 @@
 #     v       v         v
 #  +--------+ +--------+ +--------+
 #  | .md    | | .map   | | .cht   |
-#  |Summary | |Semantic| |Transcript|
+#  |(master | |(master | |Transcript|
+#  | idea   | | index) | |         |
+#  | bank)  | |        | |         |
 #  +--------+ +--------+ +--------+
 #      \      |        /
 #        \    |      /
@@ -23,6 +25,11 @@
 #      | All indexed files            |
 #      | (with updated timestamps)    |
 #      +-----------------------------+
+#
+#  Note: As of July 2025, the workflow uses a single master index (.map/.json) and idea bank (.md) for all chats, instead of per-chat .map/.md files. This improves efficiency and scalability. All documentation and automation should reference this approach.
+#
+#  (Legacy per-chat .map/.md files are no longer generated for new chats.)
+#
 #                |
 #                v
 #      +-----------------------------+
@@ -54,4 +61,3 @@
 #      | AI-StartHERE.md and docs     |
 #      +-----------------------------+
 #
-```

@@ -5,7 +5,7 @@ import json
 import hashlib
 
 # Directory containing .cht files (relative to bin/)
-CHAT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'misc')
+CHAT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'pcshowme', 'ai-chat', 'NewChats')
 OUTPUT_INDEX = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'chat_index.json')
 OUTPUT_IDEA_BANK = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'idea_bank.md')
 PROCESSED_RECORD = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.processed_chats.json')
