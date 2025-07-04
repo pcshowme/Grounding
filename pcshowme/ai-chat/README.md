@@ -32,9 +32,10 @@ This document outlines the safe, non-destructive workflow for extracting value f
 
 ### 7. Automated Post-Onboarding Processing
 - Run scripts (e.g., `process_chats.py`) to:
-  - Build or update the master index
+  - Incrementally build or update the master index and idea bank (only new or changed `.cht` files are processed each run)
   - Extract ideas, TODOs, and action items into an idea bank
   - Optionally generate digests or highlight reels
+- The script maintains a `.processed_chats.json` file to track which files have already been indexed, ensuring fast and efficient updates as your archive grows.
 
 ---
 
@@ -47,7 +48,8 @@ This document outlines the safe, non-destructive workflow for extracting value f
 ## Safety Principles
 - Never modify or delete `.cht` files.
 - All scripts are additive: new outputs are written to new files.
-- If you need to reprocess, simply rerun scripts on the `.cht` files.
+- The processing script is incremental: it only processes new or changed `.cht` files, so you can run it as often as needed without reprocessing the entire archive.
+- If you need to reprocess everything, simply delete `.processed_chats.json` and rerun the script.
 - Back up `.cht` files regularly for disaster recovery.
 
 ## Next Steps
