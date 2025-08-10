@@ -1,0 +1,151 @@
+Jim Bodden
+Senior Engineer -- Cloud/Linux for the VA
+Austin, Texas, United States
+
+**Contact**
+512-589-2336 (Mobile)
+jim@pcshowme.com
+[www.linkedin.com/in/jim-bodden](https://www.linkedin.com/in/jim-bodden) (LinkedIn)
+[www.pcSHOWme.com](https://www.pcSHOWme.com) (Personal)
+[www.facebook.com/jim.bodden](https://www.google.com/search?q=https://www.facebook.com/jim.bodden) (Other)
+www.pcSHOWme.net (Personal)
+
+**Summary**
+Tactical IT Leader. Experience includes aligning IT projects with larger business goals and establishing a strategic technological direction. Assessing needs, identifying solutions and leading high profile IT projects to implement, maintain, and strengthen the technology infrastructure while mitigating risk leading to substantial cost savings.
+
+**Top Skills**
+
+  * Artificial Intelligence (Al)
+  * Cloud
+  * Disaster Recovery
+
+**Certifications**
+
+  * DCTS Data Center Technical Specialist
+  * Linux+
+  * Microsoft Certified: Azure Fundamentals AZ-900
+  * Microsoft Certified: Azure Al Fundamentals Al-900
+
+**Honors-Awards**
+
+  * Texas Data Center Service Certificate of Appreciation
+
+**Publications**
+
+  * pcSHOWme Al: Synergistic Harmony With Al
+  * White Paper: Al Intuition, Transcending Anthropomorphism
+
+**Experience**
+**Accenture Federal Services**
+Senior Cloud Engineer
+April 2025-Present (5 months)
+
+**COGNOSANTE MVH, LLC**
+VA Senior Engineer -- Cloud/Linux
+November 2021 - March 2025 (3 years 5 months)
+Austin, Texas, United States
+Senior Cloud/Linux Engineer for the VA; Specializing in Azure/RHEL
+Focusing on; Automation, scripting, Linux, AD, DevOps, Tools, Migrations, Maintenance, DR, Apps, etc...
+
+**Leidos**
+VA Senior Cloud Engineer & Team Lead - Leidos TTL
+January 2021 - November 2021 (11 months)
+Austin, Texas Area
+Senior Cloud/Linux Engineer for the VA; Azure, AWS, RHEL, Windows, etc... Focusing on Automation, Scripting, Linux, AD, Tools, Apps, etc...
+
+**Apex Systems**
+Sr Cloud Engineer
+January 2020 - January 2021 (1 year 1 month)
+Austin, Texas, United States
+Cloud Engineer for the VA; Azure/AWS
+Focusing on Automation, Scripting, Linux, AD, Tools, Apps, etc...
+
+**Atos**
+Infrastructure Management Principal - Linux Lead
+July 2015 January 2020 (4 years 7 months)
+CNE, LPIC-1, CLA, Linux+, DCTS, CNA
+
+  * I've spent the majority my time working on the fast-paced Texas Data Center Services (DCS) account supporting Texas government agencies/institutions.
+  * While working on the TX DCS account I functioned as the Linux/Novell group Lead for the ULN team supporting steady state functions, implementing projects and improving the environments we work in and the ways we work.
+  * Provide Linux, Novell, Windows, VMware & other support as required for all DCS agencies.
+  * Participate in weekly leadership meetings
+  * Support, mentor, train and assist coworkers as needed
+  * Encourage, motivate and provide for the growth and development of all team members.
+  * Developed technical documentation to clearly detail common but often complex processes.
+  * Worked to achieve contract SLAs and developed processes & utilities to empower our team do so.
+  * Identified need, developed and implemented DAVIS; a web based client/server application used on all Linux/UNIX disk space Incidents across the State of TX DCS account cutting night phone calls to on-call personnel significantly.
+  * Actively involved in Disaster Recovery planning, creating documentation and exercises.
+  * Managed the upgrade build-out of data-center disaster recovery test environments.
+  * Implement all forms of software patching and kernel upgrades.
+  * Provide knowledge and guidance for scripting of storage allocation metrics.
+  * Respond to security incident alerts and provide resolution, impact analysis.
+  * Worked with HDS, Redhat, SUSE, EMC, IBM for storage migrations for SAN boot servers.
+  * Provide technical review and approval of all Linux related server builds and projects.
+  * Experience with: SevOne, Discovery, Remedy, ServiceNow, BigFix, CyberArk, Ansible...
+  * Provided both on-call technical services and on-call escalation management, drove MIRT Calls to successful resolution from the Linux/UNIX side.
+
+**Xerox Business Services, LLC**
+Infrastructure Management Principal
+April 2013 June 2015 (2 years 3 months)
+CNE, LPIC-1, CLA, Linux+, DCTS, CNA
+
+  * I've spent the majority my time working on the fast-paced Texas Data Center Services (DCS) account supporting Texas government agencies/institutions.
+  * While working on the TX DCS account I functioned as the Linux/Novell group Lead for the 'ULN team' supporting steady state functions, implementing projects and improving the environments we work in and the ways we work.
+  * As team lead I am constantly working to keep the motivation level high of all the team members and strive to provide a healthy, trusting and positive work environment.
+
+**ACS XEROX Company through Precision Task Grp**
+Senior Systems Engineer
+May 2012 April 2013 (1 year)
+CNE, LPIC-1, CLA, Linux+, DCTS, CNA
+
+  * I've spent the majority my time working on the fast-paced Texas Data Center Services (DCS) account supporting Texas government agencies/institutions.
+  * While working on the TX DCS account I functioned as the Linux/Novell group Lead for the 'ULN team' supporting steady state functions, implementing projects and improving the environments we work in and the ways we work.
+  * As team lead I am constantly working to keep the motivation level high of all the team members and strive to provide a healthy, trusting and positive work environment.
+
+**IBM through Precision Task Grp**
+Senior Systems Engineer
+April 2007 April 2012 (5 years 1 month)
+CNE, CNA
+
+  * Working for IBM through Precision Task Group; transitioning, supporting and implementing new projects on the IBM State of Texas (SoT) account which encompasses 27 distinct state agencies.
+  * I am Team Lead and Technical Lead for several State agencies, and I provide Netware, Linux & other OS support as required for all SoT agencies.
+  * I was primarily focusing on Data Center server migration and consolidation, project management, coordinating/directing other System Administrator's and continuing administration work with Netware, SUSE Linux, VMWARE, and Windows... Among my other projects earlier in the SoT contract I designed and implemented a centralized, multi-agency ZEN for Servers topology.
+  * Successful on-going consolidation of servers to the Data Center
+  * Successful installation and upgrades of network operating systems & critical applications
+  * Oversight of security policies at the agencies I am team lead for
+  * Successful installation of state of the art tools to meet IBM security requirements
+  * Coordination of detailed Run Books at the agencies I oversee
+  * Steady state tasks to keep the Linux & Netware servers functioning at their highest level
+
+**Bell Network Services**
+Senior Systems Engineer
+December 1999 - April 2007 (7 years 5 months)
+CNE, CNA
+
+  * Primary initiatives include: integration and consolidation of the technology at the Texas Department of Criminal Justice from various locations around the state into strategically located, technically effective, and cost efficient locations; standardization of technology across the enterprise.
+  * Strategically develop the IT environment to ensure maximum efficiency, fault tolerance, increased productivity, and substantial cost savings.
+  * Direct manager of IT personnel executing technology projects, implementations, relocations, decommissioning, help desk, and disaster recovery.
+  * Leadership and administration of Novell LAN/WAN projects to achieve agency cost and efficiency objectives.
+
+**Radian International**
+Corporate Systems Administrator
+July 1993 December 1999 (6 years 6 months)
+Austin, TX
+
+  * Initially recruited to administer and manage technology resources in the Milwaukee, WI satellite office.
+  * Spearheaded an initiative to upgrade and standardize each of the 37 locations throughout the US.
+  * Promoted in 1994 to Corporate Administrator in Austin, TX. Responsible for corporate infrastructure development, global standardization, upgrade and introduction of 'best practice' objectives, chaired IT change management meetings, designed and delivered consensus building presentations to departments, offices, and the executive officers.
+
+**Allied Computer Group**
+Technician/Consultant
+March 1991 July 1993 (2 years 5 months)
+Milwaukee, WI
+
+  * Creative network solutions, database design, and customized hardware / software configuration.
+  * Design and service of Novell NetWare and Microsoft NT LAN/WAN environments.
+  * Hardware and software installation, user application training, and IT support to clients.
+  * Installation, maintenance, troubleshooting and upgrades of computer hardware, software, peripheral equipment, computer networks, file servers, and electronic mail systems.
+
+**Education**
+**Milwaukee Area Technical College**
+Associate in Applied Science, Electronic Technology - Computers (August 1988 May 1991)
