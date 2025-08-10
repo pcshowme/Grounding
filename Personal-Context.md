@@ -358,3 +358,13 @@ This section will log significant milestones and updates over time to maintain a
 | Microsoft Orca 2 | 11/26/2023 |
 | AI realm change! | 11/25/2023 |
 | Thanksgiving & MS AI-900 | 11/22/2023 |
+
+---
+
+## Beliefs and Values
+
+### Personal Reflections
+
+These are the beliefs I have held ever since I was young. I always wondered why people had to polarize and politicize so much. Even then, I tried to do my part through the Milwaukee Rescue Missions, doing inner-city park concerts with my band "Torn Veil," fostering racial and denominational healing.
+
+After Deb and I got married, I gave up music and sold everything for a few years. When God brought it back into my life, my first worship experience was playing bass at an all-black church with no other white people (or other musicians). It was just me, my bass, and a congregation of about 200 people.
