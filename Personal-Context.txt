@@ -1,0 +1,197 @@
+Personal Context
+
+Personal Profile
+
+Name: Jim Bodden
+Birthdate: November 30, 1965, Milwaukee, WI
+Current Residence: Austin, TX
+
+Profession
+
+Jim is an IT Engineer at the VA, specializing in Azure Cloud and Linux. He has expertise in AI, BASH, PowerShell, Log Analytics, GitHub, and Excel.
+
+Certifications
+
+Jim holds the following certifications:
+- Microsoft Azure AZ-900 & AI-900
+- Linux certifications
+- DCTS Data Center Technical Specialist
+- Linux+
+- Microsoft Certified: Azure Fundamentals AZ-900
+- Microsoft Certified: Azure AI Fundamentals AI-900
+
+Interests
+
+Jim is a musician who plays bass guitar, guitar, and keys. He is also an active member of his church worship team.
+
+Communication Style
+
+Jim communicates in a friendly, concise, and efficient manner. He values confidence levels and sources in discussions.
+
+Online Presence
+
+- YouTube: pcSHOWmeAI (10k+ subscribers), pcSHOWmeMusic (10k+ subscribers), pcSHOWmeJesus (125+ subscribers)
+- LinkedIn: AI Articles
+- Website: pcSHOWme.net AI Blog
+
+Personality
+
+Jim is multi-faceted, inquisitive, practical, and creative. He is humorous, positive, insightful, and curious.
+
+Introduction
+
+This document serves as a personal context profile for AI systems, providing insights into Jim's interests, businesses, history, and creative pursuits. It is designed to facilitate efficient onboarding and collaboration with AI agents in new conversations.
+
+Grounding and NeuroIndex Integration
+
+Grounding is the central hub for project documentation, creative strategy, and workflow guides. NeuroIndex is a dynamic, JSON-based second brain for ideas, references, and brand management. Together, these systems enable seamless creative expansion, project tracking, and knowledge recall.
+
+---
+
+Idea Bank
+
+A repository of creative ideas, reflections, and brainstorming sessions. It includes concepts for music, storytelling, and video projects, as well as philosophical insights about pcSHOWme as a "philosophy in action."
+
+NeuroIndex Framework
+
+Modular JSON files for lists like Ideas.json, Projects.json, and Tools.json. Designed to empower AI agents with real-time awareness, evolving memory, and dynamic recall.
+
+Key Projects
+
+Samaritan: The Samaritan AI Backend is a dedicated Linux server designed to offload AI processing tasks from a Windows creative workstation. This architecture solves the problem of resource contention when trying to run both creative applications and AI workloads on the same machine. By separating these concerns, Samaritan allows for uninterrupted creative work on the Windows machine, dedicated resources for AI processing, and improved system performance and scalability.
+
+Vision and Goals
+
+Aspirations for AI, technology, and creative collaboration. Focus on enabling meaningful creation and curation of multimedia content.
+
+Historical Updates
+
+This section will log significant milestones and updates over time to maintain a living document.
+
+Professional Summary
+
+Current Role: Senior Engineer -- Cloud/Linux for the VA
+Location: Austin, Texas, United States
+Contact:
+- Mobile: 512-589-2336
+- Email: jim@pcshowme.com
+- LinkedIn: www.linkedin.com/in/jim-bodden
+- Website: www.pcSHOWme.com
+
+Career Highlights
+
+Accenture Federal Services: Senior Cloud Engineer (April 2025 - Present)
+COGNOSANTE MVH, LLC: VA Senior Engineer -- Cloud/Linux (November 2021 - March 2025)
+Leidos: VA Senior Cloud Engineer & Team Lead (January 2021 - November 2021)
+Apex Systems: Sr Cloud Engineer (January 2020 - January 2021)
+Atos: Infrastructure Management Principal - Linux Lead (July 2015 - January 2020)
+Xerox Business Services, LLC: Infrastructure Management Principal (April 2013 - June 2015)
+IBM through Precision Task Grp: Senior Systems Engineer (April 2007 - April 2012)
+Bell Network Services: Senior Systems Engineer (December 1999 - April 2007)
+Radian International: Corporate Systems Administrator (July 1993 - December 1999)
+Allied Computer Group: Technician/Consultant (March 1991 - July 1993)
+
+Education
+
+Milwaukee Area Technical College: Associate in Applied Science, Electronic Technology - Computers (August 1988 - May 1991)
+
+Publications
+
+pcSHOWme AI: Synergistic Harmony With AI
+White Paper: AI Intuition, Transcending Anthropomorphism
+
+Honors and Awards
+
+Texas Data Center Service Certificate of Appreciation
+
+Key Life Events
+
+Birth: November 30, 1965, Milwaukee, WI
+1982: Ski accident resulting in a coma and head injuries (February 22 - May 10, 1982)
+1984: Graduated from Brookfield East High School
+1988: Married Debra Ann Dombroski (June 4, 1988)
+1990: Birth of Sara Dawn Bodden (January 12, 1990)
+1992: Birth of Matthew John Bodden (January 1, 1992)
+1996: Moved from Milwaukee, WI to Austin, TX (July 1996)
+2004: Married Yoli (December 4, 2004)
+2008: Divorce from Yoli finalized (September 4, 2008)
+2009: Bought house at 16850 Tortoise St (October 26, 2009)
+2009: Reunited with Debra, Sara, and Matthew (December 1, 2009)
+2021: Remarried Debra Ann Bodden (October 14, 2021)
+
+Music Projects
+
+Original Songs
+
+Come Home (2010)
+Reach for the Sky (2016)
+Life Works Out (2017)
+Quietude (2017)
+Calling Out (2018)
+Dream, Dare, Do (2024)
+
+AI Articles
+
+Articles Written by Jim Bodden
+
+The Power in Kindness – A Movement Wrapped in Music (2025)
+Better Together – A Simple Reminder (2025)
+Reality Check: Behind the Scenes of pcSHOWme’s Finance Setup Journey (2025)
+
+Beliefs and Values
+
+These are the beliefs I have held ever since I was young. I always wondered why people had to polarize and politicize so much. Even then, I tried to do my part through the Milwaukee Rescue Missions, doing inner-city park concerts with my band "Torn Veil," fostering racial and denominational healing.
+
+pcSHOWme Ecosystem
+
+Platforms and Tools
+
+Gelato – Print-on-demand partner for Etsy store products
+DistroKid – Music distribution platform
+Meta Ads (Facebook/Instagram) – Marketing campaigns for brand awareness
+Xero – Accounting & bookkeeping platform for financial management
+
+Communication Infrastructure
+
+Email Structure:
+- jrbodden@gmail.com – Legacy primary (phasing out)
+- jim@pcSHOWme.com – Forward alias → Gmail
+- jrbodden@yahoo.com – Legacy backup
+- pcSHOWme@gmail.com – Main brand & YouTube account
+- pcSHOWmeMusic@gmail.com – Music presence
+- pcSHOWmeAI@gmail.com – AI-focused comms
+- pcSHOWmeJesus@gmail.com – Ministry communications
+- jrbodden@pcSHOWme.com – Casual business IMAP
+- james.bodden@pcSHOWme.com – Formal business IMAP
+- jim.bodden@pcSHOWme.com – Future primary personal
+
+Creative Ecosystem
+
+Music
+
+Songs: Dream, Dare, Do; Even the Fire Gets Cold; Speak Life; Power in Kindness
+Distributed via DistroKid
+Tied to merchandise designs (lyrics inspire product lines)
+
+Video & Visuals
+
+YouTube videos & storytelling
+AI-generated and human-refined artwork
+
+Merchandise
+
+Designs drawn from music titles and lyrics
+Printed on tote bags, posters, mugs, t-shirts
+
+Advertising & Outreach
+
+Meta Ads – Targeted ad campaigns on Facebook & Instagram
+LinkedIn Outreach – AI & business-oriented posts
+YouTube Descriptions & SEO – Keyword-optimized for organic discovery
+
+Future Expansion
+
+Automated product uploads to Gelato/Etsy (when API allows)
+Scaling ad campaigns to broader audiences
+More integrated backend systems (bookkeeping, inventory, analytics)
+Hiring business-focused collaborators to free up creative bandwidth
